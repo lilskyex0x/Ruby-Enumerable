@@ -72,8 +72,8 @@ In order to run this project you'll only need PostgreSQL installed.
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/Arch-Noize/Ruby-enumerable.git
-  cd Ruby-enumerable
+  git clone https://github.com/Arch-Noize/Ruby-Enumerable.git
+  cd Ruby-Enumerable
 ```
 
 ### Install
